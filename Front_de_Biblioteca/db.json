@@ -1,0 +1,66 @@
+{
+  "libros": [
+    {
+      "id": "4",
+      "titulo": "asdad",
+      "autor": "afadsdfefesf",
+      "genero": "fefeef",
+      "fecha": "2023-2-24",
+      "paginas": 78
+    },
+    {
+      "titulo": "asdad",
+      "autor": "afadsdfefesf",
+      "genero": "fefeefas",
+      "fecha": "2024-03-21",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "titulo": "asdad",
+      "autor": "afadsdfefesf",
+      "genero": "fefeef",
+      "fecha": "2023-2-24",
+      "paginas": 78
+    },
+    {
+      "id": "7",
+      "titulo": "asdad",
+      "autor": "afadsdfefesf",
+      "genero": "fefeef",
+      "fecha": "2023-2-24",
+      "paginas": 78
+    },
+    {
+      "id": "8",
+      "titulo": "asdad",
+      "autor": "afadsdfefesf",
+      "genero": "fefeef",
+      "fecha": "2023-2-24",
+      "paginas": 78
+    },
+    {
+      "id": "9",
+      "titulo": "asdad",
+      "autor": "afadsdfefesf",
+      "genero": "fefeef",
+      "fecha": "2023-2-24",
+      "paginas": 78
+    },
+    {
+      "id": "10",
+      "titulo": "asdad",
+      "autor": "afadsdfefesf",
+      "genero": "fefeef",
+      "fecha": "2023-2-24",
+      "paginas": 78
+    },
+    {
+      "titulo": "asd",
+      "autor": "adad",
+      "genero": "adsad",
+      "fecha": "2024-03-14",
+      "id": "11"
+    }
+  ]
+}
